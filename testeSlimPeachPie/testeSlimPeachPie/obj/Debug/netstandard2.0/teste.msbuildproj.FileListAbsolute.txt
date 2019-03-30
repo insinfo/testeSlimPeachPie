@@ -1,0 +1,7 @@
+C:\MyProjectsPeachPie\teste\teste\teste\bin\Debug\netstandard2.0\teste.deps.json
+C:\MyProjectsPeachPie\teste\teste\teste\bin\Debug\netstandard2.0\teste.dll
+C:\MyProjectsPeachPie\teste\teste\teste\bin\Debug\netstandard2.0\teste.pdb
+C:\MyProjectsPeachPie\teste\teste\teste\obj\Debug\netstandard2.0\teste.msbuildprojAssemblyReference.cache
+C:\MyProjectsPeachPie\teste\teste\teste\obj\Debug\netstandard2.0\teste.msbuildproj.CoreCompileInputs.cache
+C:\MyProjectsPeachPie\teste\teste\teste\obj\Debug\netstandard2.0\teste.dll
+C:\MyProjectsPeachPie\teste\teste\teste\obj\Debug\netstandard2.0\teste.pdb

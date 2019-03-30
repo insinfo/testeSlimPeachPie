@@ -1,0 +1,7 @@
+C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\bin\Debug\netstandard2.0\teste.deps.json
+C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\bin\Debug\netstandard2.0\teste.dll
+C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\bin\Debug\netstandard2.0\teste.pdb
+C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\testeSlimPeachPie.msbuildprojAssemblyReference.cache
+C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\testeSlimPeachPie.msbuildproj.CoreCompileInputs.cache
+C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\teste.dll
+C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\teste.pdb
