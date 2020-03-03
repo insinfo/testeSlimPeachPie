@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <!-- $(PeachpieVersion) property from the current Peachpie.NET.Sdk -->
+  <Import Project="Version.props" Sdk="Peachpie.NET.Sdk" Condition=" '$(PeachpieVersion)'=='' " />
+
+  <PropertyGroup>
+    <GenerateFullPaths>true</GenerateFullPaths>
+  </PropertyGroup>
+  
+</Project>
