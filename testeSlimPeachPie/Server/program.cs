@@ -2,6 +2,7 @@ using System;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Rewrite;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
@@ -31,6 +32,11 @@ namespace teste.Server
                 options.IdleTimeout = TimeSpan.FromMinutes(30);
                 options.Cookie.HttpOnly = true;
             });
+
+            services.AddPhp(options =>
+            {
+
+            });
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -42,7 +48,12 @@ namespace teste.Server
 
             app.UseSession();
 
-            app.UsePhp(new PhpRequestOptions(scriptAssemblyName: "teste"));
+            var options = new RewriteOptions()
+                .AddRewrite(@"^(.*)$", "index.php/$1", skipRemainingRules: true);
+
+            app.UseRewriter(options);
+
+            app.UsePhp();
             app.UseDefaultFiles();
             app.UseStaticFiles();
         }
