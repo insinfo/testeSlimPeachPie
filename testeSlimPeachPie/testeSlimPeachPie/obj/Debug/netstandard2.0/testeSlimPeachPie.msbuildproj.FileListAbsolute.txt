@@ -5,3 +5,10 @@ C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\
 C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\testeSlimPeachPie.msbuildproj.CoreCompileInputs.cache
 C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\teste.dll
 C:\MyProjectsPeachPie\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\teste.pdb
+C:\MyProjectsSharp\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\bin\Debug\netstandard2.0\teste.deps.json
+C:\MyProjectsSharp\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\bin\Debug\netstandard2.0\teste.dll
+C:\MyProjectsSharp\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\bin\Debug\netstandard2.0\teste.pdb
+C:\MyProjectsSharp\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\testeSlimPeachPie.msbuildprojAssemblyReference.cache
+C:\MyProjectsSharp\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\testeSlimPeachPie.msbuildproj.CoreCompileInputs.cache
+C:\MyProjectsSharp\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\teste.dll
+C:\MyProjectsSharp\testeSlimPeachPie\testeSlimPeachPie\testeSlimPeachPie\obj\Debug\netstandard2.0\teste.pdb
